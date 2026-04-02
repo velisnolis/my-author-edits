@@ -9,6 +9,9 @@
         <filename plugin="inartsmyauthorfilter">inartsmyauthorfilter.php</filename>
         <filename>index.html</filename>
     </files>
+    <updateservers>
+        <server type="extension" priority="1" name="My Author Edits Updates">https://raw.githubusercontent.com/velisnolis/my-author-edits/main/updates/plg_system_myauthoredits.xml</server>
+    </updateservers>
     <languages>
         <language tag="ca-ES">language/ca-ES/plg_system_inartsmyauthorfilter.ini</language>
         <language tag="ca-ES">language/ca-ES/plg_system_inartsmyauthorfilter.sys.ini</language>
