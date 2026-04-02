@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension type="plugin" group="system" method="upgrade">
+    <name>PLG_SYSTEM_INARTSMYAUTHORFILTER</name>
+    <author>Codex</author>
+    <version>1.1.0</version>
+    <description>PLG_SYSTEM_INARTSMYAUTHORFILTER_XML_DESCRIPTION</description>
+    <files>
+        <folder>forms</folder>
+        <filename plugin="inartsmyauthorfilter">inartsmyauthorfilter.php</filename>
+        <filename>index.html</filename>
+    </files>
+    <languages>
+        <language tag="ca-ES">language/ca-ES/plg_system_inartsmyauthorfilter.ini</language>
+        <language tag="ca-ES">language/ca-ES/plg_system_inartsmyauthorfilter.sys.ini</language>
+        <language tag="en-GB">language/en-GB/plg_system_inartsmyauthorfilter.ini</language>
+        <language tag="en-GB">language/en-GB/plg_system_inartsmyauthorfilter.sys.ini</language>
+        <language tag="es-ES">language/es-ES/plg_system_inartsmyauthorfilter.ini</language>
+        <language tag="es-ES">language/es-ES/plg_system_inartsmyauthorfilter.sys.ini</language>
+    </languages>
+</extension>
